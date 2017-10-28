@@ -1,0 +1,13 @@
+
+---
+indexes:
+  - kind: Devices
+    properties:
+    - name: id
+    - name: created
+      direction: asc
+  - kind: Devices
+    properties:
+    - name: id
+    - name: created
+      direction: desc
